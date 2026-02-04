@@ -1,7 +1,7 @@
 
 # EventStorming Example — Online Food Ordering
 
-This project demonstrates how **EventStorming** and **Domain Events** can be translated into executable code using **Java**. The source of inspiration for this repo is this [article](https://thewiki.techcorpapps.com/pages/viewpage.action?pageId=575557202) written by [Emmanuel Valverde](https://www.linkedin.com/in/emmanuel-valverde-ramos/), so Kudos for him <3
+This project demonstrates how **EventStorming** and **Domain Events** can be translated into executable code using **Java**. The source of inspiration for this repo is this [article](https://emmanuelvalverderamos.substack.com/p/introduction-to-event-storming) written by [Emmanuel Valverde](https://www.linkedin.com/in/emmanuel-valverde-ramos/), so Kudos for him <3
 
 The goal is not technical sophistication, but **clarity**:  
 the code mirrors the business language and the EventStorming model one‑to‑one.
