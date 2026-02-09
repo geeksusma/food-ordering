@@ -1,10 +1,10 @@
 package es.geeksusma.ordering.domain;
 
-import com.example.ordering.domain.events.OrderDelivered;
-import com.example.ordering.domain.events.OrderPlaced;
-import com.example.ordering.domain.events.OrderPrepared;
-import com.example.ordering.domain.events.PaymentAuthorized;
-import com.example.ordering.domain.events.RestaurantAcceptedOrder;
+import es.geeksusma.ordering.domain.events.OrderDelivered;
+import es.geeksusma.ordering.domain.events.OrderPlaced;
+import es.geeksusma.ordering.domain.events.OrderPrepared;
+import es.geeksusma.ordering.domain.events.PaymentAuthorized;
+import es.geeksusma.ordering.domain.events.RestaurantAcceptedOrder;
 
 import java.util.ArrayList;
 import java.util.List;

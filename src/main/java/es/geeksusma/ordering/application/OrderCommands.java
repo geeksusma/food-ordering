@@ -1,6 +1,6 @@
 package es.geeksusma.ordering.application;
 
-import com.example.ordering.domain.Order;
+import es.geeksusma.ordering.domain.Order;
 
 import java.util.UUID;
 

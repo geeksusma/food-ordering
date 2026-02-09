@@ -1,8 +1,8 @@
 package es.geeksusma.ordering;
 
-import com.example.ordering.application.OrderCommands;
-import com.example.ordering.domain.Order;
-import com.example.ordering.domain.events.*;
+import es.geeksusma.ordering.application.OrderCommands;
+import es.geeksusma.ordering.domain.Order;
+import es.geeksusma.ordering.domain.events.*;
 
 import org.junit.jupiter.api.Test;
 
